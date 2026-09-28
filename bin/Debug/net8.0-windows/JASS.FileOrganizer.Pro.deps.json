@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "JASS.FileOrganizer.Pro/1.0.0": {
+        "runtime": {
+          "JASS.FileOrganizer.Pro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JASS.FileOrganizer.Pro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
